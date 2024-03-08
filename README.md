@@ -32,13 +32,13 @@ a directory containing the files you want to analyze, which will be provided to 
 for analysis.
 
 Before running the script,
-please ensure that a directory named 'DataAnalysis' does not exist in your current location.
+please ensure that a directory named **'DataAnalysis'** does not exist in your current location.
 
 If it does, kindly remove it to ensure smooth execution of the script.
 
-(To remove it, you can either right-click on the 'DataAnalysis' directory and choose 'Remove').
+(To remove it, you can either right-click on the **'DataAnalysis'** directory and choose **'Remove'**).
 
-Or use the following command in the terminal: rm -rf DataAnalysis.)
+Or use the following command in the terminal: **rm -rf DataAnalysis.**
 
 ---
 
