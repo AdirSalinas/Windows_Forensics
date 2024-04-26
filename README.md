@@ -3,7 +3,7 @@
 This project addresses the need for an efficient solution in digital forensic analysis. By automating hard disk drive and memory investigations, while ensures the accurate identification, extraction, and display of critical data elements. Utilizing crucial forensic tools for deep scanning thorough memory analysis and generates detailed reports.
 > **Please Take a Look At The PDF Document And Watch The Video Above To Gain a Deeper Understanding Of The Project**
 
-## What is the purpose of the project and why is it necessary? 
+## What is the purpose of the project and why is it necessary ? 
 <p><em>If investigators already know the forensic tools and how to extract the required data
 from files, why would they need a specialized tool to do it for them?</em></p>
 
